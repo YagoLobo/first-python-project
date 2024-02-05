@@ -7,28 +7,28 @@ O projeto foi um desafio da Rocketseat que me permitiu fixar os conteudos do mod
 
 Uma agenda de contatos que te permite:
 
-  **1. Adicionar um contato**
+  **1.  Adicionar um contato**
   
-  **2. Visualizar contatos**
+  **2.  Visualizar contatos**
   
-  **3. Editar contato**
+  **3.  Editar contato**
 
-  **4. Marcar contato como favorito**
+  **4.  Marcar contato como favorito**
   
-  **5. Desmarcar contato como favorito**
+  **5.  Desmarcar contato como favorito**
    
-  **6. Visualizar contatos favoritos**
+  **6.  Visualizar contatos favoritos**
   
-  **7. Apagar um contato**
+  **7.  Apagar um contato**
   
-  **8. Sair**
+  **8.  Sair**
 
 Um "contato" consiste em: 
 
-Nome; 
+- Nome; 
 
-Telefone; 
+- Telefone; 
 
-Email;
+- Email;
 
-Se é marcado como favorito ou não.
+- Se é marcado como favorito ou não.
