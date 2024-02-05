@@ -23,7 +23,7 @@ Uma agenda de contatos que te permite:
   
   **8.  Sair**
 
-Um "contato" consiste em: 
+Um *"contato"* consiste em: 
 
 - Nome; 
 
