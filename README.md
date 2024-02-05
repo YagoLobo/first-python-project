@@ -23,4 +23,12 @@ Uma agenda de contatos que te permite:
   
   **8. Sair**
 
-Um "contato" consiste em: Nome, Telefone, Email e se é marcado como favorito ou não.
+Um "contato" consiste em: 
+
+Nome; 
+
+Telefone; 
+
+Email;
+
+Se é marcado como favorito ou não.
