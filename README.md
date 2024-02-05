@@ -5,7 +5,8 @@ O projeto foi um desafio da Rocketseat que me permitiu fixar os conteudos do mod
 
 ## O projeto:
 
-Uma agenda de contatos que te permite: 
+Uma agenda de contatos que te permite:
+
   **1. Adicionar um contato**
   
   **2. Visualizar contatos**
