@@ -32,3 +32,6 @@ Um "contato" consiste em:
 - Email;
 
 - Se é marcado como favorito ou não.
+
+
+### Obrigado pela atenção!
