@@ -1,7 +1,7 @@
 
 # Meu primeiro projeto de python!
 
-O projeto foi um desafio da Rocketseat que me permitiu fixar os conteudos do modulo, e praticar os assuntos abordados por ele, sendo eles condicionais, loops, excecoes e diferentes tipos de variaveis.
+O projeto foi um desafio da Rocketseat que me permitiu fixar os conteudos do modulo, e praticar os assuntos abordados por ele, sendo eles *condicionais*, *loops*, *tipos de variaveis* e *exceções*.
 
 ## O projeto:
 
